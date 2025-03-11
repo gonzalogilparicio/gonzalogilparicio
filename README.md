@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">Fullstack development student at CoderHouse</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gonzalogilparicio&label=Profile%20views&color=0e75b6&style=flat" alt="gonzalogilparicio" /> </p>
-
-- 🌱 I’m currently learning **Javascript, ReactJS, NodeJS and ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gonzalogilparicio](https://github.com/gonzalogilparicio)
 
